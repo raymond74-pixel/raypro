@@ -14,7 +14,7 @@ System.out.println(result);
 }
 class detail extends mySaving {
 public static void main (String[]args) throws ArithmeticException {
-int a,b,c;
+int a,b;
 try{
 a=0;
 b=45/a;
