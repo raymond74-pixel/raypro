@@ -11,3 +11,14 @@ System.out.println(result);
 }
 }
 }
+class detail extends mySaving {
+public static void main (String[]args){
+int a,b,c;
+try{
+a=0;
+b=45/a;
+}catch(ArithmeticException e){
+System.out.println("Software maintenance);
+}
+}
+}
