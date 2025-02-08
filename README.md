@@ -1,3 +1,4 @@
+import java.io.*;
 import java.util.Scanner;
 class mySaving {
 public static void main(String[] args){
@@ -12,7 +13,7 @@ System.out.println(result);
 }
 }
 class detail extends mySaving {
-public static void main (String[]args){
+public static void main (String[]args) throws ArithmeticException {
 int a,b,c;
 try{
 a=0;
