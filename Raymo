@@ -1,6 +1,13 @@
 <html>
 <title>AJIRA</title>
-<table width= "100%">
+<head>
+<style>
+.Saba{text-align:left;
+float:left;
+}
+</style>
+</head>
+<table class="Saba" width= "100%">
 <tr>
 <th>TYPE</th>
 <th>PRICE</th>
