@@ -1,5 +1,19 @@
 <!Doctype html>
 <title>AJIRA</title>
+
+
+<head>
+<style>
+.head{padding:10px;
+background-color:purple;
+color:white;
+text-align:center;
+}
+</style>
+</head>
+<div class="heada">MALI MPYA</div>
+
+
 <head>
 <style>
 .Saba,th,td{border:1px solid black;
