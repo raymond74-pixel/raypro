@@ -1,5 +1,13 @@
-<! Doctype html>
+<!Doctype html>
 <title>SHOPPING</title>
+
+<head>
+<style>
+.bg{background-color:red;
+}
+</style>
+</head>
+<body class="bg">
 
 .fepa{color:purple;
 float:center;
@@ -12,3 +20,5 @@ text-size:20px;
 
 <div class="fepa"><font>SHOPS CENTER</font></div>
 
+</body>
+</html>
