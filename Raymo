@@ -2,7 +2,9 @@
 <title>AJIRA</title>
 <head>
 <style>
-.Saba{text-align:left;
+.Saba,th,td{border:1px solid black;
+border-collapse:collapse;
+text-align:left;
 float:left;
 }
 </style>
