@@ -13,10 +13,12 @@ float:left;
 <tr>
 <th>TYPE</th>
 <th>PRICE</th>
+<th>PHOTOS</th>
 </tr>
 <tr>
 <td>Nissan</td>
 <td>200000000</td>
+<td><img SRC="island.jpg" width="200px" value="pic1"></img></td>
 </tr>
 </table>
 </html>
