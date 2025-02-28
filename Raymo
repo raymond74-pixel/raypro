@@ -1,3 +1,12 @@
 <html>
 <title>AJIRA</title>
+<table width= "100%">
+<tr>
+<th>TYPE</th>
+<th>PRICE</th>
+</tr>
+<tr>
+<td>Nissan</td>
+<td>200000000</td>
+</tr>
 </html>
