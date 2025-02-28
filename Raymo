@@ -1,11 +1,11 @@
 <!Doctype html>
-<title>AJIRA</title>
+<title> Mali mpya</title>
 
 
 <head>
 <style>
 .head{padding:10px;
-background-color:purple;
+background-color:#CCC;
 color:white;
 text-align:center;
 }
@@ -19,7 +19,7 @@ text-align:center;
 .Saba,th,td{border:1px solid black;
 border-collapse:collapse;
 text-align:left;
-float:left;
+text-size:12px;
 }
 </style>
 </head>
