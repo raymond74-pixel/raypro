@@ -2,6 +2,8 @@
 <title>SHOPPING</title>
 
 .fepa{color:purple;
+float:center;
+text-align: center;
 font-family: fantasy;
 text-size:20px;
 }
