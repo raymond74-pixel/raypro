@@ -1,4 +1,4 @@
-<! Doctype html>
+<!Doctype html>
 <head>
 <title>DATA SECURITY</title>
 </head>
